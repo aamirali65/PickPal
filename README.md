@@ -2,7 +2,6 @@
 
 PickPal is a modern, user-friendly color picker tool built with React. It helps users find, save, and explore colors for their projects with features like color suggestions, dark mode, and cookie consent management.
 
-![PickPal Screenshot](screenshot.png)
 
 ## 🌟 Features
 
